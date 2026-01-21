@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MintAnt0
-- 👀 I’m interested in Cyber-sécurity and a réseaux
-- 🌱 I’m currently learning Cyber-sécurity and a réseaux 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Salut , Je suis MintAnt0 ( Antonin ) 
+- 👀 Je suis hyper interesse par la cyber-sécurité et l'administration de reseaux
+- 🌱 Je m'informe de toutes les actu
+- 💞️ Je suis ouvert a toute collaboration possible
+- 📫 antonin.frimat@gmail.com    
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: N'hesitez pas a me contacter 
 
 <!---
 MintAnt0/MintAnt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
