@@ -28,22 +28,25 @@
 
 ## Compétences
 
-**Systèmes, scripts et développement**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,php,mysql&perline=7" alt="Linux, Bash, Python, Docker, Git, PHP, MySQL" />
-</p>
+<h3>Systèmes, scripts et développement</h3>
 
-**Réseaux, sécurité et supervision**
+<img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,php,mysql&perline=7" alt="Linux, Bash, Python, Docker, Git, PHP, MySQL" width="560" />
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server%20%2F%20AD-0078D4?style=flat-square&logo=windows&logoColor=white)
+<h3>Réseaux, sécurité et supervision</h3>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<br>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+<img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+<img src="https://img.shields.io/badge/Windows%20Server%20%2F%20AD-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server et Active Directory" />
+
+</div>
 
 | Domaine | Outils et notions |
 | --- | --- |
