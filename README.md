@@ -11,7 +11,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Disponible-alternance%20%2F%20stage-4DF0A4?style=for-the-badge" height="24" alt="Disponible en alternance ou en stage" />
-<img src="https://img.shields.io/badge/Localisation-Paris%20%2F%20Remote-1F2937?style=for-the-badge" height="24" alt="Paris ou télétravail" />
+<img src="https://img.shields.io/badge/Localisation-Paris%20%2F%20Remote-1F2937?style=for-the-badge" height="24" alt="Lille / Paris , Télétravail possible " />
 <img src="https://img.shields.io/badge/Langues-FR%20%C2%B7%20EN-1F2937?style=for-the-badge" height="24" alt="Français, anglais" />
 <img src="https://img.shields.io/badge/Permis-B-1F2937?style=for-the-badge" height="24" alt="Permis B" />
 
@@ -26,7 +26,7 @@
 
 ## Profil
 
-> Étudiant en **Bachelor Administrateur Réseaux & Cybersécurité** (après un **BTS CIEL**), je conçois, sécurise et supervise des infrastructures informatiques : **segmentation VLAN et DMZ, pare-feu, durcissement Linux, supervision SNMP/Syslog, tests d'intrusion et analyse de logs en contexte SOC**. Je cherche une **alternance** pour contribuer à l'administration, à la sécurisation et à la supervision d'un système d'information.
+> Étudiant en **Master Ingenieure Réseaux & Cybersécurité** (après un **Bachelor Cyber**), je conçois, sécurise et supervise des infrastructures informatiques : **segmentation VLAN et DMZ, pare-feu, durcissement Linux, supervision SNMP/Syslog, tests d'intrusion et analyse de logs en contexte SOC**. Je cherche une **alternance** pour contribuer à l'administration, à la sécurisation et à la supervision d'un système d'information.
 
 | | |
 | --- | --- |
